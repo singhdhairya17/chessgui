@@ -37,9 +37,6 @@ project/
 ├─ images/
 │  ├─ white_pawn.png  white_rook.png  white_knight.png  white_bishop.png  white_queen.png  white_king.png
 │  └─ black_pawn.png  black_rook.png  black_knight.png  black_bishop.png  black_queen.png  black_king.png
-├─ assets/
-│  ├─ screenshot-board.png
-│  └─ screenshot-menu.png
 ├─ chess_game.py
 └─ README.md
 ```
@@ -82,11 +79,11 @@ python chess_game.py
 
 ## 📸 Screenshots
 
-> Put your images in an `assets/` folder (or `images/`) and adjust paths below.
-
 <p align="center">
-  <img src="assets/screenshot-board.png" alt="Board view" width="45%">
-  <img src="assets/screenshot-menu.png" alt="Right-side menu with time controls" width="45%">
+  <img src="https://github.com/user-attachments/assets/6f9ed39d-9e12-4669-b1a1-c8a6ee3d7fe2" alt="Board view" width="45%">
+  <img src="https://github.com/user-attachments/assets/920c5553-2317-40b4-8894-936a9b4de5c9" alt="AIvsHuman" width="45%">
+  <img src="https://github.com/user-attachments/assets/55ae51c1-6c17-4a97-a695-e0e4cac32f4c" alt="Resign" width="45%">
+  <img src="https://github.com/user-attachments/assets/f8c112c6-20a7-4414-975e-45330f94c188" alt="time controls" width="45%">
 </p>
 
 - **Left:** Board view with drag-and-drop pieces  
